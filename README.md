@@ -1,4 +1,4 @@
-# app-icons
+# Email Signature
 
 ![Screenshot 2024-09-18 at 4 19 59 PM](https://github.com/user-attachments/assets/a22764b4-27ee-43ea-aa92-0c6b71b7d94a)
 
